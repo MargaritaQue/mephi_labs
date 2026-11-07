@@ -1,0 +1,7 @@
+# Локальные файлы IntelliJ IDEA, Maven и macOS
+.idea/
+*.iml
+target/
+out/
+*.class
+.DS_Store
